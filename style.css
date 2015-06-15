@@ -1,0 +1,21 @@
+.colr {
+  border-color: green;
+}
+
+.redr {
+  border-color: red;
+  
+}
+
+.title {
+  text-align: center;
+}
+
+.info {
+  text-align: center;
+}
+
+img {
+  width: 100px;
+  height: 0px;
+}
